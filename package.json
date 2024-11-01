@@ -1,0 +1,15 @@
+{
+  "name": "my-aws-project",
+  "version": "1.0.0",
+  "description": "<h1> My AWS Project 🌐 : :construction: under construction :construction:</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
